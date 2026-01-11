@@ -48,3 +48,17 @@ document-based question answering systems.
 
 ```bash
 pip install -r requirements.txt
+```
+## Run the Project
+ ```
+python qna_app.py
+```
+
+## Acknowledgements
+
+Model: deepset/roberta-base-squad2
+Library: Transformers
+
+Author
+
+Kanishka Sharma
