@@ -58,5 +58,5 @@ python qna_app.py
 - Model: [`deepset/roberta-base-squad2`](https://huggingface.co/deepset/roberta-base-squad2)
 - Library: [Transformers](https://huggingface.co/docs/transformers/index)
 
-Author
+Author <br>
 Kanishka Sharma
