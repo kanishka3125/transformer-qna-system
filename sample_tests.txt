@@ -1,0 +1,26 @@
+==================== TEST CASE 1 (CLOUD COMPUTING) ====================
+CONTEXT:
+Cloud computing is the on-demand delivery of computing resources such as servers, storage, databases, networking, and software over the internet. It allows users to access services without managing physical hardware. Popular cloud providers include AWS, Microsoft Azure, and Google Cloud.
+
+Q1: What does cloud computing deliver on demand?
+Expected: computing resources
+
+Q2: Name one popular cloud provider.
+Expected: AWS / Microsoft Azure / Google Cloud
+
+Q3 (No Answer): Who is the founder of cloud computing?
+Expected: No confident answer found / No answer
+
+
+==================== TEST CASE 2 (AI / ML) ====================
+CONTEXT:
+Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think and learn. Machine Learning is a subset of AI that enables systems to learn patterns from data without being explicitly programmed. Deep Learning is a subset of Machine Learning that uses neural networks with multiple layers.
+
+Q1: What is Machine Learning a subset of?
+Expected: AI
+
+Q2: What does Deep Learning use?
+Expected: neural networks with multiple layers
+
+Q3 (No Answer): Who invented Machine Learning?
+Expected: No confident answer found / No answer
